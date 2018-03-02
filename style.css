@@ -1,0 +1,30 @@
+.tablo{
+	color:#000000;
+	width: 100%;
+	max-width: 100%;
+	margin-bottom: 1rem;
+	background-color: transparent;
+}
+
+.tablo th, .tablo td{
+	padding: 0.75rem;
+	vertical-align: top;
+	border-top: 1px solid #000000;
+	text-align:center;
+}
+.makale{
+	margin-bottom:35px;
+	color:#721c24;
+	font-style: italic;
+	font-family:artickle;
+}
+.baslik{
+			border:2px dotted #1e8635; 
+			padding:8px;
+			
+			-moz-border-radius: 20px;
+			-webkit-border-radius:20px;
+			border-radius: 20px;
+	       
+		}
+
